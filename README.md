@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 - Run
 
-python "D_DosAttack.py"
+python "dos.py"
 
 **N.B: If You Using Windows Please Use PowerShell Instead Of Command Prompt(CMD) For Best Experience.**
 
