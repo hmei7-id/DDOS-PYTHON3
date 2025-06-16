@@ -97,7 +97,7 @@ python "dos.py"
 ![](ScreenShots/Screen_Shot1.png)
 
 2)
-![](ScreenShots/Screen_Shot2.jpg)
+![](ScreenShots/Screen2.png)
 
 3)
 ![](ScreenShots/Screen_Shot3.png)
