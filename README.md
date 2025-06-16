@@ -99,9 +99,6 @@ python "dos.py"
 2)
 ![](ScreenShots/Screen2.png)
 
-3)
-![](ScreenShots/Screen_Shot3.png)
-
 
 
 ## Conclusion & Warnings
