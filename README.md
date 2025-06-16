@@ -66,7 +66,7 @@ git clone https://github.com/hmei7-id/DDOS-PYTHON3.git && cd D-Dos_Attack_Script
 
 - Run
 
-python3 "D_DosAttack.py"
+python3 "dos.py"
 
 
 **For Windows**
